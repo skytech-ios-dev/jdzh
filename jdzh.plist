@@ -38,7 +38,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.skytech.jdzh</string>
+                    <string>com.skytech.demo.jdzh</string>
                     <key>bundle-version</key>
                     <string>0.1</string>
                     <key>kind</key>
